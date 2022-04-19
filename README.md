@@ -13,4 +13,4 @@ City: Danang
 Description: Da Nang University of Science and Technology (2016-2021)
 Major:  Construction Informatics
 Degree: Bachelor
-Degree Classification: Undergraduate
+Degree Classification: Undergraduated
