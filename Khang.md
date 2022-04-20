@@ -1,3 +1,5 @@
+# minh_and_khang
+
 # Khang
 Name: Nguyen Le Phuc Khang
 Languages: Java, Javascript
